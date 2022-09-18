@@ -1,0 +1,14 @@
+#bt_1,
+#bt_2 {
+font-family: 'Helvetica', 'Times New Roman', 'san-serif';
+font-size: 28px;
+}
+
+#bt_1 {
+    color: white;
+    background-color: black;
+}
+
+#bt_2{
+    background-color: yellow;
+}
